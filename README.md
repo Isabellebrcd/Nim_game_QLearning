@@ -35,7 +35,7 @@ pip install customtkinter numpy
 - **Learning AI:** Implements **Q-Learning** to improve its decision-making over time.
 
 ## Demo
-![Game Demo](NIM Game.gif)
+![Game Demo](https://raw.githubusercontent.com/Isabellebrcd/Nim_game_QLearning/master/NIM%20Game.gif)
 
 ## Author
 Created by Isabelle Bricaud during AI MSc at the University of Kent.
